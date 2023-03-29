@@ -12,5 +12,8 @@ Siltra is a Hypixel Housing bot made for the purpose of streamlining the Housing
     - Connect Housing chat to a Discord channel, messages sent in Discord send in Housing chat, vice versa.
 - Player linking/verification. (In Discord)
     - Links players' username to their Discord username. (example#1234)
+- Stat interfacing.
+    - Being able to edit stats of players, using commands like:
+        /editstats (player) (stat) (amount)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=620571802)
