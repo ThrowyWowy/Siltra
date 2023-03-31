@@ -5,7 +5,7 @@ Siltra is a Hypixel Housing bot made for the purpose of streamlining the Housing
 
 ---
 
-### **Features **
+### **Features**
 > - Custom logger.
 >    - Minecraft color code compliant.
 > - Custom built bot client.
